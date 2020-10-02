@@ -3,7 +3,7 @@
   .nav-item {font-size:12px;} 
     .footer{font-size: 8px;}
     .aboutText{
-    font-size: 16px;}
+    font-size: 18px;}
 }
  
 /* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
@@ -11,7 +11,7 @@
   .nav-item {font-size:14px;} 
     .footer{font-size: 10px;}
     .aboutText{
-    font-size: 18px;}
+    font-size: 20px;}
 }
  
 /* Large devices (desktops, 992px and up) */
@@ -19,7 +19,7 @@
   .nav-item {font-size:16px;} 
     .footer{font-size: 12px;}
     .aboutText{
-    font-size: 20px;}
+    font-size: 22px;}
 }
  
 /* Extra large devices (large desktops, 1200px and up) */
@@ -27,7 +27,7 @@
   .nav-item {font-size:18px;} 
     .footer{font-size: 14px;}
     .aboutText{
-    font-size: 22px;}
+    font-size: 24px;}
 }
 
 .carousel-inner img {
