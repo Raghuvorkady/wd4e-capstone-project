@@ -2,24 +2,32 @@
 @media (min-width: 544px) {  
   .nav-item {font-size:12px;} 
     .footer{font-size: 8px;}
+    .aboutText{
+    font-size: 16px;}
 }
  
 /* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
 @media (min-width: 768px) {  
   .nav-item {font-size:14px;} 
     .footer{font-size: 10px;}
+    .aboutText{
+    font-size: 18px;}
 }
  
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) { 
   .nav-item {font-size:16px;} 
     .footer{font-size: 12px;}
+    .aboutText{
+    font-size: 20px;}
 }
  
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {  
   .nav-item {font-size:18px;} 
     .footer{font-size: 14px;}
+    .aboutText{
+    font-size: 22px;}
 }
 
 .carousel-inner img {
@@ -118,7 +126,6 @@ p{
 }
 
 .aboutText{
-    font-size: 24px;
     font-family:monospace;
 }
 
